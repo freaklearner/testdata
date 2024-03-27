@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Sales",
+        "type": "number",
+        "format": ""
+    },
+    {
+        "name": "MSA",
+        "type": "string",
+        "format": ""
+    },
+    {
+        "name": "City",
+        "type": "string",
+        "format": ""
+    },
+    {
+        "name": "Date",
+        "type": "date",
+        "format": "%Y-%m-%d"
+    },
+    {
+        "name": "Product Sub Category",
+        "type": "string",
+        "format": ""
+    },
+    {
+        "name": "ZIP",
+        "type": "string",
+        "format": ""
+    },
+    {
+        "name": "Region",
+        "type": "string",
+        "format": ""
+    },
+    {
+        "name": "Product Category",
+        "type": "string",
+        "format": ""
+    },
+    {
+        "name": "State",
+        "type": "string",
+        "format": ""
+    }
+]
